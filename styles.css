@@ -1,0 +1,48 @@
+body {
+    width: 100%;
+    height: 100vh;
+  background-color: #6666cc;
+   color: white;
+  }
+  
+  .text-center {
+    text-align: center;
+    font-family: Tahoma;
+    font-size: 30px;
+  }
+  
+  #description {
+    text-align: center;
+    font-family: Areal, sans-serif;
+    font-style: italic;
+    }
+  form {
+    width: 60vw;
+    max-width: 500px;
+    min-width: 300px;
+    margin: 0 auto;
+  background-color: #00264d;
+  }
+  .form-element {
+    margin: 5px;
+    padding: 5px;
+  }
+  #name-label,
+  #name {
+    margin-top: 15px;
+  }
+  input[type="submit"] {
+    margin:
+    15px 15px;
+    padding:
+    5px;
+  background-color:
+  #d1d1e0;
+  }
+  #number {
+    margin-left: 16px;
+  }
+  #name,
+  #email {
+    margin-left: 5px;
+  }
